@@ -1,4 +1,4 @@
-<img src="" alt="Tisch ITP logo" title="Tisch ITP" align="right" height="96" width="96"/>
+<img src="https://github.com/wenqili/fabrication-help-session/blob/master/itp-icon.png" alt="Tisch ITP logo" title="Tisch ITP" align="right" height="96" width="96"/>
 
 # fabrication-help-session
 
