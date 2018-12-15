@@ -38,4 +38,4 @@ Machine data sheet and operation calendar can be found at [ITP shop help page](h
 
 ### Toolkit
 * [Gear Generator](https://geargenerator.com/)
-
+* [tindie: Off-shelf parts](https://www.tindie.com/)
