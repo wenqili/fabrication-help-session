@@ -35,3 +35,7 @@ Machine data sheet and operation calendar can be found at [ITP shop help page](h
 ## Where to buy parts
 ## Where to buy finish and spray
 ## Where to find inspiration
+
+### Toolkit
+* [Gear Generator](https://geargenerator.com/)
+
